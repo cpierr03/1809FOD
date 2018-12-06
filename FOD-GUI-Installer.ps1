@@ -94,7 +94,7 @@ $Label2.text                     = "Provided by /r/sysadmin"
 $Label2.AutoSize                 = $true
 $Label2.width                    = 25
 $Label2.height                   = 10
-$Label2.location                 = New-Object System.Drawing.Point(170,0)
+$Label2.location                 = New-Object System.Drawing.Point(225,0)
 $Label2.Font                     = 'Microsoft Sans Serif,10'
 
 $Form.controls.AddRange(@($ListBox1,$Button2,$Button3,$Label1,$Label2))
